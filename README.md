@@ -1,2 +1,2 @@
-# AssignmentPRJ
-WEB
+# Assignment
+Assignment
